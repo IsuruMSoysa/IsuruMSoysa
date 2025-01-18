@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsuruMSoysa
-- 👀 I’m interested in Front end development
-- 🌱 I’m currently learning React.js and Vue.js
+- 👀 I’m a Front-end passionate Full-stack web and mobile developer
+- 🌱 I’m currently comfortable with React, React Native, Typescript, NodeJs, ExpressJs, PostgreSQL
 - 📫 You can contact me from info@isurumsoysa.com
 
 <!---
